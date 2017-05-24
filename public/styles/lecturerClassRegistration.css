@@ -1,0 +1,39 @@
+
+        #classRegistrationContent{
+               width: 25%;
+               height: 100%;
+               display:block; 
+               margin: 0 auto;                  
+        }
+        
+        form#sessionGroupForm{     
+            margin: 0 auto;
+        }
+        
+         select#sessionGroupSelect{
+            display:block;
+            margin: 0 auto;           
+        }
+        
+        input[type=submit]#selectSessionGroupBtn{
+            display:block;
+            margin: 0 auto;
+            
+        }
+        
+        form#sessionRegisterationForm{     
+            margin: 0 auto;
+        } 
+        
+        input[type="text"]#sessionID{
+            display:block;
+            margin: 0 auto;
+            
+        }
+        
+    
+
+        
+        
+         
+       

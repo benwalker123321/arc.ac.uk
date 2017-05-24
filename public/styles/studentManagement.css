@@ -1,0 +1,53 @@
+              
+                table#studentManagementNavTable{
+                   width:10%; 
+                   float: left;
+                   position: absolute;
+               }  
+
+          	 #studentRegisterForm{              
+                   display:none; 
+               }
+               
+               #addStudentToCourseForm{
+                   
+                   display:none; 
+               }
+               
+                 #addStudentToGroupForm{
+                   
+                   display:none; 
+               }
+               
+               
+                 #findStudentOnCourseForm{
+                   
+                   display:none; 
+               }
+               
+               
+                 #findStudentOnModuleForm{
+                   
+                   display:none; 
+               }
+               
+               
+                 #findStudentInGroupForm{                
+                   display:none; 
+               }
+
+               table#studentsOnCourseTable{                  
+                  margin: 0 auto;        
+               }
+               
+               table#studentsOnModuleTable{                  
+                  margin: 0 auto;        
+               }
+               
+               table#studentsInGroupTable{                  
+                  margin: 0 auto;        
+               }
+              
+		   		
+ 
+   

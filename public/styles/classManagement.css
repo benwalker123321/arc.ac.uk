@@ -1,0 +1,45 @@
+
+
+          table#classManagementNavTable{
+                   float:left;
+                   width:10%;
+                   position: absolute;                  
+               }
+			   
+		#createAClassSessionForm{		
+			display:none; 
+		}
+
+		#createGroupForm{		
+			display:none; 
+		}	   
+
+		#viewGroupsForm{		
+			display:none; 
+
+				}	
+				
+		#findModuleClassSessionsForm{		
+			display:none; 
+
+		}	   
+		
+		#moduleClassSessionsTable{
+			margin: 0 auto;
+		}
+		
+                #studentsInGroupsTable{	
+			
+			margin: 0 auto;
+		}
+		
+		#groupsTable{
+                      
+			margin: 0 auto;
+		}
+
+
+
+		   		
+ 
+   

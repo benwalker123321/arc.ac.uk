@@ -1,0 +1,10 @@
+   table#clickableImageTable{           
+            margin-left:7%; 
+            display: inline; 
+        }
+        
+        img#clickableImage{
+            margin: 0 auto;     
+            height: 300px;
+            width: 250px;
+        }

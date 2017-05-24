@@ -1,0 +1,17 @@
+ 
+                table#studentModAttend{
+                    margin: 0 auto;
+                }
+
+                table#studentCourseOverViewTable{
+                    margin: 0 auto;       
+                }
+                select#moduleSelect{
+                    display:block;
+                    margin: 0 auto;
+                }
+                
+                  input[type=submit]#attendanceBtn{
+                        display:block;
+                        margin: 0 auto;
+                    }       

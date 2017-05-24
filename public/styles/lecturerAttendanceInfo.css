@@ -1,0 +1,42 @@
+           
+        
+       table#attendanceInfoNavTable{   
+              float:left;
+              width:10%;
+              position: absolute; 
+
+         }
+
+        table#studentModAttend{
+            margin: 0 auto;
+        }
+        
+        table#studentCourseOverViewTable{
+            margin: 0 auto;       
+        }
+
+     
+   
+                    form#viewModuleAttendanceForm{
+                        display: none; 
+                    }                                 
+   
+                     form#viewClassGroupSessionAttendanceForm{
+                        display: none; 
+                    }
+ 
+                     form#viewStudentAttendanceForm{
+                        
+                        display:none; 
+                    }             
+                    
+                  
+                    
+                    table#classAttendanceTable{                      
+                        margin: 0 auto;  
+                        
+                    }
+                    
+                    table#moduleAttendanceTable{   
+                        margin: 0 auto;    
+                    }

@@ -1,0 +1,18 @@
+   table#clickableImageTable{           
+            margin-left:3%; 
+            display: inline; 
+        }
+        
+        img#clickableImage{
+                 
+            height: 300px;
+            width: 200px;
+        }
+        
+        table#stuPoorAttendanceTable{  
+            margin: 0 auto;     
+        }
+        
+        table#poorlyAttendedLecturesTable{  
+            margin: 0 auto;     
+        }

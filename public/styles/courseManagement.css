@@ -1,0 +1,62 @@
+
+		
+               table#courseManagementNavTable{
+                   float:left;
+                   width:10%;
+                   position: absolute;                  
+               }
+               
+               form#addCourseForm{                 
+                   display:none;
+               }
+               
+                form#addModuleForm{                 
+                   display:none;
+               }
+               
+                form#createCourseModuleLinkForm{                 
+                   display:none;
+               }
+               
+                form#viewCoursesForm{                 
+                   display:none;
+               }
+               
+               
+                form#viewModulesForm{                 
+                   display:none;
+               }
+               
+                form#viewCourseModulesForm{                 
+                   display:none;
+               }
+               
+               
+                form#viewModulesCoursesForm{                 
+                   display:none;
+               }
+               
+               table#viewCoursesTable{
+                   
+                   margin:0 auto;
+               }
+               
+                table#viewModulesTable{
+                   
+                   margin:0 auto;
+               } 
+               
+                table#viewCourseModulesTable{
+                   
+                   margin:0 auto;
+               } 
+               
+                table#viewModulesCoursesTable{
+                   
+                   margin:0 auto;
+               } 
+         
+              
+		   		
+ 
+   

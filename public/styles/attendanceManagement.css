@@ -1,0 +1,45 @@
+
+		
+               table#attendanceManagementNavTable{
+                   float:left;
+                   width:10%;
+                   position: absolute;                  
+               }
+               
+               form#overallClassTypeModuleAttendanceForm{                 
+                   display:none;
+               }
+               
+                form#changeStudentAttendanceStatusForm{                 
+                   display:none;
+               }
+               
+                form#roomUsageForm{                 
+                   display:none;
+               }
+               
+               form#viewStudentAttendanceForm{
+                   display:none;
+               }
+              
+               table#roomUsageTable{
+                   margin: 0 auto;
+               }
+               
+               table#modOverallTable{
+                   margin: 0 auto;
+               }
+        
+               
+               table#studentCourseOverViewTable{   
+                   margin: 0 auto;
+               }
+
+               
+               
+       
+         
+              
+		   		
+ 
+   
